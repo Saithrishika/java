@@ -28,7 +28,7 @@ preTrans=amount;
 }
 void getpreTrans(){
 if(preTrans>0){
-System.out.println("Deposited":"+preTrans);
+System.out.println("Deposited:"+preTrans);
 }
 else if(preTrans<0){
 System.out.println("withdraw:"+math.obj(preTrans));
